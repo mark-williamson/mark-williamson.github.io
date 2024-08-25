@@ -15,7 +15,7 @@ Guest Lecturer (x2) (2024)
 Toronto Metropolitan University
 
 **Comparative Politics**<br>
-Teaching Assistant (2022, 2023) 
+Teaching Assistant (2022, 2023) <br>
 New York University 
 
 **International Politics**<br>
