@@ -50,6 +50,7 @@ My areas of teaching expertise include Canadian politics; comparative politics; 
 
 See below for sample teaching materials: 
 - [Race, Ethnicity, Indigeneity and Politics](/files/teaching/reip_syllabus.pdf)
+- [Political Behaviour and Public Opinion](/files/teaching/pb_syllabus.pdf)
 - [Representation](/files/teaching/representation_syllabus.pdf)
 
 
