@@ -27,7 +27,7 @@ author_profile: true
 
 
 **Covid-19 and Preferences for Progressive Taxation: Evidence from a 2020 U.S. Ballot Proposal**<br>
-(Under review)
+(R&R)
 
 [Full Paper](/files/covid19_paper/covid19.pdf){: .btn--research} 
 
