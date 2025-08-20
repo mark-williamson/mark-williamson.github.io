@@ -9,8 +9,8 @@ author_profile: true
 <hr>
 
 **Undergraduate**
-- POLI 311: Introduction to Quantitative Political Science
-- [POLI 412: Canadian Voting/Public Opinion](/files/teaching/pb_syllabus.pdf)
+- POLI 314: Intermediate Quantitative Methods
+- [POLI 521: Canadian Political Behaviour](/files/teaching/POLI521_syllabus.pdf)
 
 **Graduate**
 - POLI 632: Voting Behaviour and Public Opinion
