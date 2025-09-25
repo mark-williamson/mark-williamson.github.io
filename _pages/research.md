@@ -9,7 +9,7 @@ author_profile: true
 <hr>
 
 **The Prevalence and Correlates of Residential School Denialism in Canada**<br>
-(R&R; with [Edana Beauvais](https://www.sfu.ca/politics/people/profiles/ebeauvai.html))
+(with [Edana Beauvais](https://www.sfu.ca/politics/people/profiles/ebeauvai.html))
 
 [Full Paper](/files/denialism_paper/beauvais_williamson.pdf){: .btn--research} 
 
@@ -17,7 +17,6 @@ author_profile: true
   
 
 **Covid-19 and Preferences for Progressive Taxation: Evidence from a 2020 U.S. Ballot Proposal**<br>
-(R&R)
 
 [Full Paper](/files/covid19_paper/covid19.pdf){: .btn--research} 
 
