@@ -8,13 +8,13 @@ author_profile: true
 ## Journal Articles
 <hr>
 
-[Beauvais, Edana](https://www.sfu.ca/politics/people/profiles/ebeauvai.html) and Mark Williamson. 2025. ?The Prevalence and Correlates of Residential School Denialism in Canada.? *Canadian Journal of Political Science.*
+1. [Beauvais, Edana](https://www.sfu.ca/politics/people/profiles/ebeauvai.html) and Mark Williamson. (2025). "The Prevalence and Correlates of Residential School Denialism in Canada.? *Canadian Journal of Political Science.* 
 
-[Paper](/files/denialism_paper/beauvais_williamson.pdf){: .btn--research} [Replication Files](https://doi.org/10.7910/DVN/YBLLKI){: .btn--research} 
+[Paper](https://doi.org/10.1017/S0008423925100899){: .btn--research} [Replication Files](https://doi.org/10.7910/DVN/YBLLKI){: .btn--research} [Pre-Analysis Plan](https://aspredicted.org/htgn-vy4p.pdf){: .btn--research}
 
-Rahnama, Roxanne and Mark Williamson. (2025). ?How Americans Evaluate Redistributive vs. Symbolic Racial Justice Policies." *Journal of Race, Ethnicity, and Politics.*
+2. [Rahnama, Roxanne](https://roxannerahnama.com/) and Mark Williamson. (2025). "How Americans Evaluate Redistributive vs. Symbolic Racial Justice Policies." *Journal of Race, Ethnicity, and Politics.*
 
-[Paper](https://doi.org/10.1017/rep.2025.10035){: .btn--research} [Replication Files](https://doi.org/10.7910/DVN/XBRBZQ){: .btn--research}  [Pre-Analysis Plan](https://osf.io/5k4xu)
+[Paper](https://doi.org/10.1017/rep.2025.10035){: .btn--research} [Replication Files](https://doi.org/10.7910/DVN/XBRBZQ){: .btn--research} [Pre-Analysis Plan](https://osf.io/5k4xu){: .btn--research}
 
 
 
